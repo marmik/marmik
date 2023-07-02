@@ -11,4 +11,4 @@ I'm Marmik Patel, and I love programming, data science, and books! I'm always on
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Marmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Marmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
