@@ -7,8 +7,4 @@ I'm Marmik Patel, and I love programming, data science, and books! I'm always on
 - :office: Connect with me on [LinkedIn](https://www.linkedin.com/in/marmik-patel-84a55b1b4/)
 - :speaker: Listen to me on the [Artists of Data Science podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
 
-### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Marmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
